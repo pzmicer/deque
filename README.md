@@ -1,1 +1,2 @@
-# deque
+# Deque
+Simple Deque implementation
